@@ -144,8 +144,7 @@ cells.
 - Furini, F., Gabrel, V. & Ternier, I.-C. (2016). An Improved
   DSATUR-Based Branch-and-Bound Algorithm for the Vertex Coloring
   Problem. INFORMS Journal on Computing, 29(4), 686-701.
-  https://doi.org/10.1287/ijoc.2017.0733
-  PDF: https://hal.science/hal-01576588/document
+  https://www.researchgate.net/publication/309817697_An_Improved_DSATUR-Based_Branch-and-Bound_Algorithm_for_the_Vertex_Coloring_Problem
 
 - De Lima, A.M. & Carmo, R. (2018). Exact Algorithms for the Graph
   Coloring Problem. Revista de Informatica Teorica e Aplicada (RITA),
